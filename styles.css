@@ -1,0 +1,7 @@
+[id="F1651978502"].page {
+	min-height: var(--viewport-height);
+}
+
+[id="F1651978502"] .page-content {
+	align-items: flex-start;
+}
